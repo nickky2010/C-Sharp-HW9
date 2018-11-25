@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnacondaGame", "HW9_1\AnacondaGame.csproj", "{177441EE-47B6-405A-9061-CBAE38E02845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW9_2", "HW9_2\HW9_2.csproj", "{7F73490F-C5EF-47A7-A28B-1DC22F2439A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{177441EE-47B6-405A-9061-CBAE38E02845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177441EE-47B6-405A-9061-CBAE38E02845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177441EE-47B6-405A-9061-CBAE38E02845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177441EE-47B6-405A-9061-CBAE38E02845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F73490F-C5EF-47A7-A28B-1DC22F2439A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F73490F-C5EF-47A7-A28B-1DC22F2439A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F73490F-C5EF-47A7-A28B-1DC22F2439A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F73490F-C5EF-47A7-A28B-1DC22F2439A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8E1AD65-8693-408B-ABDF-88B4769567D4}
+	EndGlobalSection
+EndGlobal

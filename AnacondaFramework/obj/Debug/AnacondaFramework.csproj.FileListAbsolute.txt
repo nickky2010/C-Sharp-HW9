@@ -1,0 +1,18 @@
+D:\Романькова\Examples_C#\AnacondaGame\AnacondaFramework\bin\Debug\AnacondaFramework.dll
+D:\Романькова\Examples_C#\AnacondaGame\AnacondaFramework\bin\Debug\AnacondaFramework.pdb
+D:\Романькова\Examples_C#\AnacondaGame\AnacondaFramework\obj\Debug\AnacondaFramework.csprojAssemblyReference.cache
+D:\Романькова\Examples_C#\AnacondaGame\AnacondaFramework\obj\Debug\AnacondaFramework.csproj.CoreCompileInputs.cache
+D:\Романькова\Examples_C#\AnacondaGame\AnacondaFramework\obj\Debug\AnacondaFramework.dll
+D:\Романькова\Examples_C#\AnacondaGame\AnacondaFramework\obj\Debug\AnacondaFramework.pdb
+D:\P21017\nickky2010\C# .NET\AnacondaGame\AnacondaFramework\bin\Debug\AnacondaFramework.dll
+D:\P21017\nickky2010\C# .NET\AnacondaGame\AnacondaFramework\bin\Debug\AnacondaFramework.pdb
+D:\P21017\nickky2010\C# .NET\AnacondaGame\AnacondaFramework\obj\Debug\AnacondaFramework.csprojAssemblyReference.cache
+D:\P21017\nickky2010\C# .NET\AnacondaGame\AnacondaFramework\obj\Debug\AnacondaFramework.csproj.CoreCompileInputs.cache
+D:\P21017\nickky2010\C# .NET\AnacondaGame\AnacondaFramework\obj\Debug\AnacondaFramework.dll
+D:\P21017\nickky2010\C# .NET\AnacondaGame\AnacondaFramework\obj\Debug\AnacondaFramework.pdb
+C:\Users\developer\Downloads\AnacondaGame\AnacondaFramework\bin\Debug\AnacondaFramework.dll
+C:\Users\developer\Downloads\AnacondaGame\AnacondaFramework\bin\Debug\AnacondaFramework.pdb
+C:\Users\developer\Downloads\AnacondaGame\AnacondaFramework\obj\Debug\AnacondaFramework.csprojAssemblyReference.cache
+C:\Users\developer\Downloads\AnacondaGame\AnacondaFramework\obj\Debug\AnacondaFramework.csproj.CoreCompileInputs.cache
+C:\Users\developer\Downloads\AnacondaGame\AnacondaFramework\obj\Debug\AnacondaFramework.dll
+C:\Users\developer\Downloads\AnacondaGame\AnacondaFramework\obj\Debug\AnacondaFramework.pdb
