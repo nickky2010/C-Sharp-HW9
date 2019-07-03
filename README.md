@@ -47,9 +47,9 @@
 
 #### Вид консольной игры `«Удавчик»`:
 
-![Alt text](/Image/2.PNG?raw=true "Уровни")
+![Alt text](Task/Image/2.PNG?raw=true "Уровни")
 
-![Alt text](/Image/3.PNG?raw=true "Game over")
+![Alt text](Task/Image/3.PNG?raw=true "Game over")
 
-![Alt text](/Image/4.PNG?raw=true "Игровой процесс")
+![Alt text](Task/Image/4.PNG?raw=true "Игровой процесс")
 
